@@ -1,0 +1,14 @@
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\bin\Debug\DownloadFBPrivate.exe.config
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\bin\Debug\DownloadFBPrivate.exe
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\bin\Debug\DownloadFBPrivate.pdb
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.csprojAssemblyReference.cache
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.Properties.Resources.resources
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.csproj.GenerateResource.cache
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.exe
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.pdb
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\bin\Debug\DownloadFBPrivate.exe.manifest
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\bin\Debug\DownloadFBPrivate.application
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.exe.manifest
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.application
+C:\Users\A\Desktop\Test\DownloadFBPrivate\DownloadFBPrivate\obj\Debug\DownloadFBPrivate.mainFrm.resources
